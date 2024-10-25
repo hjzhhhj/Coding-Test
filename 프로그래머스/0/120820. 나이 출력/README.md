@@ -1,10 +1,10 @@
 # [level 0] 나이 출력 - 120820 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=python3) 
 
 ### 성능 요약
 
-메모리: 58.9 MB, 시간: 0.02 ms
+메모리: 10.2 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 25일 23:48:49
+2024년 10월 25일 23:49:11
 
 ### 문제 설명
 
