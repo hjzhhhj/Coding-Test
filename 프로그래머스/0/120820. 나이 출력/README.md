@@ -1,10 +1,10 @@
 # [level 0] 나이 출력 - 120820 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=scala) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=swift) 
 
 ### 성능 요약
 
-메모리: 89 MB, 시간: 0.44 ms
+메모리: 16.3 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 25일 23:50:37
+2024년 10월 25일 23:52:22
 
 ### 문제 설명
 
