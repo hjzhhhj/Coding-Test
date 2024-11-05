@@ -1,10 +1,10 @@
 # [level 0] 나머지 구하기 - 120810 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=go) 
 
 ### 성능 요약
 
-메모리: 31.4 MB, 시간: 0.21 ms
+메모리: 3.56 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 04일 22:17:25
+2024년 11월 05일 22:42:15
 
 ### 문제 설명
 
