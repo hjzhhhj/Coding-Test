@@ -1,10 +1,10 @@
 # [level 0] 나머지 구하기 - 120810 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=scala) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=swift) 
 
 ### 성능 요약
 
-메모리: 89 MB, 시간: 0.39 ms
+메모리: 16.3 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 07일 23:50:50
+2024년 11월 08일 23:45:48
 
 ### 문제 설명
 
