@@ -1,10 +1,10 @@
 # [level 0] 피자 나눠 먹기 (1) - 120814 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=go) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 3.55 MB, 시간: 0.00 ms
+메모리: 62.2 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 18일 23:32:41
+2024년 11월 19일 23:47:25
 
 ### 문제 설명
 
