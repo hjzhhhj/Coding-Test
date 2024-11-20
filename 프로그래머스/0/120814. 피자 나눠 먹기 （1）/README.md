@@ -1,10 +1,10 @@
 # [level 0] 피자 나눠 먹기 (1) - 120814 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=scala) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=swift) 
 
 ### 성능 요약
 
-메모리: 90.7 MB, 시간: 0.35 ms
+메모리: 16.2 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 20일 23:38:12
+2024년 11월 20일 23:39:50
 
 ### 문제 설명
 
