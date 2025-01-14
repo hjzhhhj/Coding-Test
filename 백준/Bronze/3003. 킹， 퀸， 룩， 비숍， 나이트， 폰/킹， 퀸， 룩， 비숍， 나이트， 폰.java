@@ -7,9 +7,8 @@ public class Main {
         int[] piece = {1, 1, 2, 2, 2, 8};
         for ( int i = 0; i < 6; i++ ) {
             input[i] = sc.nextInt();
-        }
-        for ( int i = 0; i < 6; i++ ) {
             System.out.print(piece[i]-input[i]+" ");
         }
+        sc.close();
     }
 }
