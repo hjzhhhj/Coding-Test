@@ -1,10 +1,10 @@
 # [level 0] 콜라츠 수열 만들기 - 181919 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.12 ms
+메모리: 9.26 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 08월 15일 02:49:50
+2025년 08월 15일 02:51:54
 
 ### 문제 설명
 
